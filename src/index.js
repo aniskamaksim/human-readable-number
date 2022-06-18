@@ -133,4 +133,3 @@ function toReadableSingleDigits2090(number) {
 else {
 stringof100 = '';
 }*/
-// That's all, Folks!
